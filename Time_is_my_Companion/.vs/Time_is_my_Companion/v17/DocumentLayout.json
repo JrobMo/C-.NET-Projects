@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\Time_is_my_Companion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F1B2E8-1128-4866-8CB2-9A2C58F5EE32}|Time_is_my_Companion\\Time_is_my_Companion.csproj|C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\Time_is_my_Companion\\time_is_my_companion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F1B2E8-1128-4866-8CB2-9A2C58F5EE32}|Time_is_my_Companion\\Time_is_my_Companion.csproj|solutionrelative:time_is_my_companion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F1B2E8-1128-4866-8CB2-9A2C58F5EE32}|Time_is_my_Companion\\Time_is_my_Companion.csproj|c:\\users\\psvmain\\desktop\\c#.net-projects\\time_is_my_companion\\time_is_my_companion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F1B2E8-1128-4866-8CB2-9A2C58F5EE32}|Time_is_my_Companion\\Time_is_my_Companion.csproj|solutionrelative:time_is_my_companion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F1B2E8-1128-4866-8CB2-9A2C58F5EE32}|Time_is_my_Companion\\Time_is_my_Companion.csproj|C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\Time_is_my_Companion\\time_is_my_companion\\episodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F1B2E8-1128-4866-8CB2-9A2C58F5EE32}|Time_is_my_Companion\\Time_is_my_Companion.csproj|solutionrelative:time_is_my_companion\\episodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F1B2E8-1128-4866-8CB2-9A2C58F5EE32}|Time_is_my_Companion\\Time_is_my_Companion.csproj|C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\Time_is_my_Companion\\time_is_my_companion\\doctor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F1B2E8-1128-4866-8CB2-9A2C58F5EE32}|Time_is_my_Companion\\Time_is_my_Companion.csproj|solutionrelative:time_is_my_companion\\doctor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F1B2E8-1128-4866-8CB2-9A2C58F5EE32}|Time_is_my_Companion\\Time_is_my_Companion.csproj|C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\Time_is_my_Companion\\time_is_my_companion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3F1B2E8-1128-4866-8CB2-9A2C58F5EE32}|Time_is_my_Companion\\Time_is_my_Companion.csproj|solutionrelative:time_is_my_companion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 165,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\Time_is_my_Companion\\Time_is_my_Companion\\Program.cs",
+              "RelativeDocumentMoniker": "Time_is_my_Companion\\Program.cs",
+              "ToolTip": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\Time_is_my_Companion\\Time_is_my_Companion\\Program.cs",
+              "RelativeToolTip": "Time_is_my_Companion\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:02:40Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\Time_is_my_Companion\\Time_is_my_Companion\\Form1.cs",
+              "RelativeDocumentMoniker": "Time_is_my_Companion\\Form1.cs",
+              "ToolTip": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\Time_is_my_Companion\\Time_is_my_Companion\\Form1.cs",
+              "RelativeToolTip": "Time_is_my_Companion\\Form1.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAwwIsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:02:01.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Episodes.cs",
+              "DocumentMoniker": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\Time_is_my_Companion\\Time_is_my_Companion\\Episodes.cs",
+              "RelativeDocumentMoniker": "Time_is_my_Companion\\Episodes.cs",
+              "ToolTip": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\Time_is_my_Companion\\Time_is_my_Companion\\Episodes.cs",
+              "RelativeToolTip": "Time_is_my_Companion\\Episodes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:02:01.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Doctor1.cs",
+              "DocumentMoniker": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\Time_is_my_Companion\\Time_is_my_Companion\\Doctor1.cs",
+              "RelativeDocumentMoniker": "Time_is_my_Companion\\Doctor1.cs",
+              "ToolTip": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\Time_is_my_Companion\\Time_is_my_Companion\\Doctor1.cs",
+              "RelativeToolTip": "Time_is_my_Companion\\Doctor1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:02:01.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\Time_is_my_Companion\\Time_is_my_Companion\\Form1.cs",
+              "RelativeDocumentMoniker": "Time_is_my_Companion\\Form1.cs",
+              "ToolTip": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\Time_is_my_Companion\\Time_is_my_Companion\\Form1.cs [Design]",
+              "RelativeToolTip": "Time_is_my_Companion\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:02:01.277Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

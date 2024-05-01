@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\MediaIsTheMessage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5C1D1C-6B95-49A2-A25E-69F43EB81338}|Lab3A\\MediaIsTheMessage.csproj|c:\\users\\psvmain\\desktop\\c#.net-projects\\mediaisthemessage\\lab3a\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5C1D1C-6B95-49A2-A25E-69F43EB81338}|Lab3A\\MediaIsTheMessage.csproj|solutionrelative:lab3a\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5C1D1C-6B95-49A2-A25E-69F43EB81338}|Lab3A\\Lab3A.csproj|C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\MediaIsTheMessage\\lab3a\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5C1D1C-6B95-49A2-A25E-69F43EB81338}|Lab3A\\Lab3A.csproj|solutionrelative:lab3a\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5C1D1C-6B95-49A2-A25E-69F43EB81338}|Lab3A\\MediaIsTheMessage.csproj|C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\MediaIsTheMessage\\lab3a\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5C1D1C-6B95-49A2-A25E-69F43EB81338}|Lab3A\\MediaIsTheMessage.csproj|solutionrelative:lab3a\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5C1D1C-6B95-49A2-A25E-69F43EB81338}|Lab3A\\Lab3A.csproj|C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\MediaIsTheMessage\\lab3a\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5C1D1C-6B95-49A2-A25E-69F43EB81338}|Lab3A\\Lab3A.csproj|solutionrelative:lab3a\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5C1D1C-6B95-49A2-A25E-69F43EB81338}|Lab3A\\Lab3A.csproj|C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\MediaIsTheMessage\\lab3a\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5C1D1C-6B95-49A2-A25E-69F43EB81338}|Lab3A\\Lab3A.csproj|solutionrelative:lab3a\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5C1D1C-6B95-49A2-A25E-69F43EB81338}|Lab3A\\Lab3A.csproj|C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\MediaIsTheMessage\\lab3a\\isearchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5C1D1C-6B95-49A2-A25E-69F43EB81338}|Lab3A\\Lab3A.csproj|solutionrelative:lab3a\\isearchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5C1D1C-6B95-49A2-A25E-69F43EB81338}|Lab3A\\Lab3A.csproj|C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\MediaIsTheMessage\\lab3a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5C1D1C-6B95-49A2-A25E-69F43EB81338}|Lab3A\\Lab3A.csproj|solutionrelative:lab3a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5C1D1C-6B95-49A2-A25E-69F43EB81338}|Lab3A\\Lab3A.csproj|C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\MediaIsTheMessage\\lab3a\\iencryptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5C1D1C-6B95-49A2-A25E-69F43EB81338}|Lab3A\\Lab3A.csproj|solutionrelative:lab3a\\iencryptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 342,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Media.cs",
+              "DocumentMoniker": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\MediaIsTheMessage\\Lab3A\\Media.cs",
+              "RelativeDocumentMoniker": "Lab3A\\Media.cs",
+              "ToolTip": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\MediaIsTheMessage\\Lab3A\\Media.cs",
+              "RelativeToolTip": "Lab3A\\Media.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:53:07.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\MediaIsTheMessage\\Lab3A\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3A\\Program.cs",
+              "ToolTip": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\MediaIsTheMessage\\Lab3A\\Program.cs",
+              "RelativeToolTip": "Lab3A\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:49:21.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Media.cs",
+              "DocumentMoniker": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\MediaIsTheMessage\\Lab3A\\Media.cs",
+              "RelativeDocumentMoniker": "Lab3A\\Media.cs",
+              "ToolTip": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\MediaIsTheMessage\\Lab3A\\Media.cs",
+              "RelativeToolTip": "Lab3A\\Media.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:49:21.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISearchable.cs",
+              "DocumentMoniker": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\MediaIsTheMessage\\Lab3A\\ISearchable.cs",
+              "RelativeDocumentMoniker": "Lab3A\\ISearchable.cs",
+              "ToolTip": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\MediaIsTheMessage\\Lab3A\\ISearchable.cs",
+              "RelativeToolTip": "Lab3A\\ISearchable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:49:21.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\MediaIsTheMessage\\Lab3A\\Song.cs",
+              "RelativeDocumentMoniker": "Lab3A\\Song.cs",
+              "ToolTip": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\MediaIsTheMessage\\Lab3A\\Song.cs",
+              "RelativeToolTip": "Lab3A\\Song.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAkwCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:49:21.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\MediaIsTheMessage\\Lab3A\\Book.cs",
+              "RelativeDocumentMoniker": "Lab3A\\Book.cs",
+              "ToolTip": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\MediaIsTheMessage\\Lab3A\\Book.cs",
+              "RelativeToolTip": "Lab3A\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:49:21.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEncryptable.cs",
+              "DocumentMoniker": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\MediaIsTheMessage\\Lab3A\\IEncryptable.cs",
+              "RelativeDocumentMoniker": "Lab3A\\IEncryptable.cs",
+              "ToolTip": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\MediaIsTheMessage\\Lab3A\\IEncryptable.cs",
+              "RelativeToolTip": "Lab3A\\IEncryptable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:49:21.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\MediaIsTheMessage\\Lab3A\\Movie.cs",
+              "RelativeDocumentMoniker": "Lab3A\\Movie.cs",
+              "ToolTip": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\MediaIsTheMessage\\Lab3A\\Movie.cs",
+              "RelativeToolTip": "Lab3A\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:49:21.925Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

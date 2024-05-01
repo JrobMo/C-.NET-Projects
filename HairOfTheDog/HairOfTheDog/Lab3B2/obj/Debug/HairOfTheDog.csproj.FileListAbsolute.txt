@@ -1,0 +1,10 @@
+C:\Users\PSVMain\Desktop\C#.NET-Projects\HairOfTheDog\HairOfTheDog\Lab3B2\bin\Debug\Lab3B2.exe.config
+C:\Users\PSVMain\Desktop\C#.NET-Projects\HairOfTheDog\HairOfTheDog\Lab3B2\bin\Debug\Lab3B2.exe
+C:\Users\PSVMain\Desktop\C#.NET-Projects\HairOfTheDog\HairOfTheDog\Lab3B2\bin\Debug\Lab3B2.pdb
+C:\Users\PSVMain\Desktop\C#.NET-Projects\HairOfTheDog\HairOfTheDog\Lab3B2\obj\Debug\HairOfTheDog.csproj.AssemblyReference.cache
+C:\Users\PSVMain\Desktop\C#.NET-Projects\HairOfTheDog\HairOfTheDog\Lab3B2\obj\Debug\Lab3B2.Lab3B.resources
+C:\Users\PSVMain\Desktop\C#.NET-Projects\HairOfTheDog\HairOfTheDog\Lab3B2\obj\Debug\Lab3B2.Properties.Resources.resources
+C:\Users\PSVMain\Desktop\C#.NET-Projects\HairOfTheDog\HairOfTheDog\Lab3B2\obj\Debug\HairOfTheDog.csproj.GenerateResource.cache
+C:\Users\PSVMain\Desktop\C#.NET-Projects\HairOfTheDog\HairOfTheDog\Lab3B2\obj\Debug\HairOfTheDog.csproj.CoreCompileInputs.cache
+C:\Users\PSVMain\Desktop\C#.NET-Projects\HairOfTheDog\HairOfTheDog\Lab3B2\obj\Debug\Lab3B2.exe
+C:\Users\PSVMain\Desktop\C#.NET-Projects\HairOfTheDog\HairOfTheDog\Lab3B2\obj\Debug\Lab3B2.pdb

@@ -1,0 +1,8 @@
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 4\Lab4a\Lab4a\bin\Debug\Lab4a.exe.config
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 4\Lab4a\Lab4a\bin\Debug\Lab4a.exe
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 4\Lab4a\Lab4a\bin\Debug\Lab4a.pdb
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 4\Lab4a\Lab4a\obj\Debug\Lab4a.csproj.AssemblyReference.cache
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 4\Lab4a\Lab4a\obj\Debug\Lab4a.csproj.SuggestedBindingRedirects.cache
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 4\Lab4a\Lab4a\obj\Debug\Lab4a.csproj.CoreCompileInputs.cache
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 4\Lab4a\Lab4a\obj\Debug\Lab4a.exe
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 4\Lab4a\Lab4a\obj\Debug\Lab4a.pdb

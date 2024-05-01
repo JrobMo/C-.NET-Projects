@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="COMP10204_LAB5Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'COMP10204_LAB5.dbo.COMPANION' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="COMPANION">
+    <Key>
+      <PropertyRef Name="NAME" />
+      <PropertyRef Name="ACTOR" />
+      <PropertyRef Name="DOCTORID" />
+      <PropertyRef Name="STORYID" />
+    </Key>
+    <Property Name="NAME" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="ACTOR" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="DOCTORID" Type="int" Nullable="false" />
+    <Property Name="STORYID" Type="varchar" MaxLength="6" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DOCTOR">
+    <Key>
+      <PropertyRef Name="DOCTORID" />
+    </Key>
+    <Property Name="DOCTORID" Type="int" Nullable="false" />
+    <Property Name="ACTOR" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="SERIES" Type="int" Nullable="false" />
+    <Property Name="AGE" Type="int" Nullable="false" />
+    <Property Name="DEBUT" Type="varchar" MaxLength="6" Nullable="false" />
+    <Property Name="PICTURE" Type="varbinary(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="EPISODE">
+    <Key>
+      <PropertyRef Name="STORYID" />
+    </Key>
+    <Property Name="STORYID" Type="varchar" MaxLength="6" Nullable="false" />
+    <Property Name="SEASON" Type="int" Nullable="false" />
+    <Property Name="SEASONYEAR" Type="int" Nullable="false" />
+    <Property Name="TITLE" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__COMPANION__DOCTO__276EDEB3">
+    <End Role="DOCTOR" Type="Self.DOCTOR" Multiplicity="1" />
+    <End Role="COMPANION" Type="Self.COMPANION" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DOCTOR">
+        <PropertyRef Name="DOCTORID" />
+      </Principal>
+      <Dependent Role="COMPANION">
+        <PropertyRef Name="DOCTORID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__COMPANION__STORY__286302EC">
+    <End Role="EPISODE" Type="Self.EPISODE" Multiplicity="1" />
+    <End Role="COMPANION" Type="Self.COMPANION" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EPISODE">
+        <PropertyRef Name="STORYID" />
+      </Principal>
+      <Dependent Role="COMPANION">
+        <PropertyRef Name="STORYID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__DOCTOR__DEBUT__29572725">
+    <End Role="EPISODE" Type="Self.EPISODE" Multiplicity="1" />
+    <End Role="DOCTOR" Type="Self.DOCTOR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EPISODE">
+        <PropertyRef Name="STORYID" />
+      </Principal>
+      <Dependent Role="DOCTOR">
+        <PropertyRef Name="DEBUT" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="COMP10204_LAB5ModelStoreContainer">
+    <EntitySet Name="DOCTOR" EntityType="Self.DOCTOR" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EPISODE" EntityType="Self.EPISODE" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="COMPANION" EntityType="Self.COMPANION" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [COMPANION].[NAME] AS [NAME], 
+    [COMPANION].[ACTOR] AS [ACTOR], 
+    [COMPANION].[DOCTORID] AS [DOCTORID], 
+    [COMPANION].[STORYID] AS [STORYID]
+    FROM [dbo].[COMPANION] AS [COMPANION]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK__COMPANION__DOCTO__276EDEB3" Association="Self.FK__COMPANION__DOCTO__276EDEB3">
+      <End Role="DOCTOR" EntitySet="DOCTOR" />
+      <End Role="COMPANION" EntitySet="COMPANION" />
+    </AssociationSet>
+    <AssociationSet Name="FK__COMPANION__STORY__286302EC" Association="Self.FK__COMPANION__STORY__286302EC">
+      <End Role="EPISODE" EntitySet="EPISODE" />
+      <End Role="COMPANION" EntitySet="COMPANION" />
+    </AssociationSet>
+    <AssociationSet Name="FK__DOCTOR__DEBUT__29572725" Association="Self.FK__DOCTOR__DEBUT__29572725">
+      <End Role="EPISODE" EntitySet="EPISODE" />
+      <End Role="DOCTOR" EntitySet="DOCTOR" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

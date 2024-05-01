@@ -1,0 +1,16 @@
+DEBUG THE COLLECTION OF SUMMARIES 
+OF mice and men - no summary i think only for books
+
+
+Pattern is that there are carriage returns for some of the Book Summaries in data.txt that need to be accounted for
+The Andromeda Strain
+Of Mice and Men
+Hitchhikers guide to the galaxy
+American Gods
+The Anubis Gates
+
+The lines Missing from the Application are: 
+Of Mice and Men
+To Kill A MockingBird
+American Gods
+

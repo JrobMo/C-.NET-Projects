@@ -1,0 +1,7 @@
+C:\Users\PSVMain\Desktop\C#.NET-Projects\LabOne\Employee\LabOne\bin\Debug\Employee.exe.config
+C:\Users\PSVMain\Desktop\C#.NET-Projects\LabOne\Employee\LabOne\bin\Debug\Employee.exe
+C:\Users\PSVMain\Desktop\C#.NET-Projects\LabOne\Employee\LabOne\bin\Debug\Employee.pdb
+C:\Users\PSVMain\Desktop\C#.NET-Projects\LabOne\Employee\LabOne\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\PSVMain\Desktop\C#.NET-Projects\LabOne\Employee\LabOne\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\PSVMain\Desktop\C#.NET-Projects\LabOne\Employee\LabOne\obj\Debug\Employee.exe
+C:\Users\PSVMain\Desktop\C#.NET-Projects\LabOne\Employee\LabOne\obj\Debug\Employee.pdb

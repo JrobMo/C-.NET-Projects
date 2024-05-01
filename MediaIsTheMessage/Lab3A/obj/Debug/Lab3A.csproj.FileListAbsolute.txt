@@ -1,0 +1,15 @@
+C:\Users\MrRogers\Desktop\C#inClass\Assignments\A3.2022\Lab3A\Lab3A\obj\Debug\Lab3A.csproj.AssemblyReference.cache
+C:\Users\MrRogers\Desktop\C#inClass\Assignments\A3.2022\Lab3A\Lab3A\obj\Debug\Lab3A.csproj.SuggestedBindingRedirects.cache
+C:\Users\MrRogers\Desktop\C#inClass\Assignments\A3.2022\Lab3A\Lab3A\obj\Debug\Lab3A.csproj.CoreCompileInputs.cache
+C:\Users\MrRogers\Desktop\C#inClass\Assignments\A3.2022\Lab3A\Lab3A\bin\Debug\Lab3A.exe.config
+C:\Users\MrRogers\Desktop\C#inClass\Assignments\A3.2022\Lab3A\Lab3A\bin\Debug\Lab3A.exe
+C:\Users\MrRogers\Desktop\C#inClass\Assignments\A3.2022\Lab3A\Lab3A\bin\Debug\Lab3A.pdb
+C:\Users\MrRogers\Desktop\C#inClass\Assignments\A3.2022\Lab3A\Lab3A\obj\Debug\Lab3A.exe
+C:\Users\MrRogers\Desktop\C#inClass\Assignments\A3.2022\Lab3A\Lab3A\obj\Debug\Lab3A.pdb
+C:\Users\PSVMain\Desktop\C#.NET-Projects\Lab3A\Lab3A\Lab3A\bin\Debug\Lab3A.exe.config
+C:\Users\PSVMain\Desktop\C#.NET-Projects\Lab3A\Lab3A\Lab3A\bin\Debug\Lab3A.exe
+C:\Users\PSVMain\Desktop\C#.NET-Projects\Lab3A\Lab3A\Lab3A\bin\Debug\Lab3A.pdb
+C:\Users\PSVMain\Desktop\C#.NET-Projects\Lab3A\Lab3A\Lab3A\obj\Debug\Lab3A.csproj.AssemblyReference.cache
+C:\Users\PSVMain\Desktop\C#.NET-Projects\Lab3A\Lab3A\Lab3A\obj\Debug\Lab3A.csproj.CoreCompileInputs.cache
+C:\Users\PSVMain\Desktop\C#.NET-Projects\Lab3A\Lab3A\Lab3A\obj\Debug\Lab3A.exe
+C:\Users\PSVMain\Desktop\C#.NET-Projects\Lab3A\Lab3A\Lab3A\obj\Debug\Lab3A.pdb

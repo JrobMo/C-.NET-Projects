@@ -1,0 +1,15 @@
+C:\Users\MrRogers\Documents\Term3.5\C#inClass\WeekThree\LabOne\LabOne\bin\Debug\LabOne.exe.config
+C:\Users\MrRogers\Documents\Term3.5\C#inClass\WeekThree\LabOne\LabOne\bin\Debug\LabOne.exe
+C:\Users\MrRogers\Documents\Term3.5\C#inClass\WeekThree\LabOne\LabOne\bin\Debug\LabOne.pdb
+C:\Users\MrRogers\Documents\Term3.5\C#inClass\WeekThree\LabOne\LabOne\obj\Debug\LabOne.csproj.AssemblyReference.cache
+C:\Users\MrRogers\Documents\Term3.5\C#inClass\WeekThree\LabOne\LabOne\obj\Debug\LabOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\MrRogers\Documents\Term3.5\C#inClass\WeekThree\LabOne\LabOne\obj\Debug\LabOne.csproj.CoreCompileInputs.cache
+C:\Users\MrRogers\Documents\Term3.5\C#inClass\WeekThree\LabOne\LabOne\obj\Debug\LabOne.exe
+C:\Users\MrRogers\Documents\Term3.5\C#inClass\WeekThree\LabOne\LabOne\obj\Debug\LabOne.pdb
+C:\Users\PSVMain\Desktop\C#.NET-Projects\LabOne\LabOne\LabOne\bin\Debug\LabOne.exe.config
+C:\Users\PSVMain\Desktop\C#.NET-Projects\LabOne\LabOne\LabOne\bin\Debug\LabOne.exe
+C:\Users\PSVMain\Desktop\C#.NET-Projects\LabOne\LabOne\LabOne\bin\Debug\LabOne.pdb
+C:\Users\PSVMain\Desktop\C#.NET-Projects\LabOne\LabOne\LabOne\obj\Debug\LabOne.csproj.AssemblyReference.cache
+C:\Users\PSVMain\Desktop\C#.NET-Projects\LabOne\LabOne\LabOne\obj\Debug\LabOne.csproj.CoreCompileInputs.cache
+C:\Users\PSVMain\Desktop\C#.NET-Projects\LabOne\LabOne\LabOne\obj\Debug\LabOne.exe
+C:\Users\PSVMain\Desktop\C#.NET-Projects\LabOne\LabOne\LabOne\obj\Debug\LabOne.pdb

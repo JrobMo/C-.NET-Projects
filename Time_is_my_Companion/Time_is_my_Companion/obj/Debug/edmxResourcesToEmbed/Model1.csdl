@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="COMP10204_LAB5Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="DOCTOR">
+    <Key>
+      <PropertyRef Name="DOCTORID" />
+    </Key>
+    <Property Name="DOCTORID" Type="Int32" Nullable="false" />
+    <Property Name="ACTOR" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="SERIES" Type="Int32" Nullable="false" />
+    <Property Name="AGE" Type="Int32" Nullable="false" />
+    <Property Name="DEBUT" Type="String" MaxLength="6" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PICTURE" Type="Binary" MaxLength="Max" FixedLength="false" Nullable="false" />
+    <NavigationProperty Name="COMPANIONs" Relationship="Self.FK__COMPANION__DOCTO__276EDEB3" FromRole="DOCTOR" ToRole="COMPANION" />
+    <NavigationProperty Name="EPISODE" Relationship="Self.FK__DOCTOR__DEBUT__29572725" FromRole="DOCTOR" ToRole="EPISODE" />
+  </EntityType>
+  <EntityType Name="EPISODE">
+    <Key>
+      <PropertyRef Name="STORYID" />
+    </Key>
+    <Property Name="STORYID" Type="String" MaxLength="6" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="SEASON" Type="Int32" Nullable="false" />
+    <Property Name="SEASONYEAR" Type="Int32" Nullable="false" />
+    <Property Name="TITLE" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="DOCTORs" Relationship="Self.FK__DOCTOR__DEBUT__29572725" FromRole="EPISODE" ToRole="DOCTOR" />
+    <NavigationProperty Name="COMPANIONs" Relationship="Self.FK__COMPANION__STORY__286302EC" FromRole="EPISODE" ToRole="COMPANION" />
+  </EntityType>
+  <EntityType Name="COMPANION">
+    <Key>
+      <PropertyRef Name="NAME" />
+      <PropertyRef Name="ACTOR" />
+      <PropertyRef Name="DOCTORID" />
+      <PropertyRef Name="STORYID" />
+    </Key>
+    <Property Name="NAME" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ACTOR" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DOCTORID" Type="Int32" Nullable="false" />
+    <Property Name="STORYID" Type="String" MaxLength="6" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="DOCTOR" Relationship="Self.FK__COMPANION__DOCTO__276EDEB3" FromRole="COMPANION" ToRole="DOCTOR" />
+    <NavigationProperty Name="EPISODE" Relationship="Self.FK__COMPANION__STORY__286302EC" FromRole="COMPANION" ToRole="EPISODE" />
+  </EntityType>
+  <Association Name="FK__COMPANION__DOCTO__276EDEB3">
+    <End Role="DOCTOR" Type="Self.DOCTOR" Multiplicity="1" />
+    <End Role="COMPANION" Type="Self.COMPANION" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DOCTOR">
+        <PropertyRef Name="DOCTORID" />
+      </Principal>
+      <Dependent Role="COMPANION">
+        <PropertyRef Name="DOCTORID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__DOCTOR__DEBUT__29572725">
+    <End Role="EPISODE" Type="Self.EPISODE" Multiplicity="1" />
+    <End Role="DOCTOR" Type="Self.DOCTOR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EPISODE">
+        <PropertyRef Name="STORYID" />
+      </Principal>
+      <Dependent Role="DOCTOR">
+        <PropertyRef Name="DEBUT" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__COMPANION__STORY__286302EC">
+    <End Role="EPISODE" Type="Self.EPISODE" Multiplicity="1" />
+    <End Role="COMPANION" Type="Self.COMPANION" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EPISODE">
+        <PropertyRef Name="STORYID" />
+      </Principal>
+      <Dependent Role="COMPANION">
+        <PropertyRef Name="STORYID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="COMP10204_LAB5Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="DOCTORs" EntityType="Self.DOCTOR" />
+    <EntitySet Name="EPISODEs" EntityType="Self.EPISODE" />
+    <EntitySet Name="COMPANIONs" EntityType="Self.COMPANION" />
+    <AssociationSet Name="FK__COMPANION__DOCTO__276EDEB3" Association="Self.FK__COMPANION__DOCTO__276EDEB3">
+      <End Role="DOCTOR" EntitySet="DOCTORs" />
+      <End Role="COMPANION" EntitySet="COMPANIONs" />
+    </AssociationSet>
+    <AssociationSet Name="FK__DOCTOR__DEBUT__29572725" Association="Self.FK__DOCTOR__DEBUT__29572725">
+      <End Role="EPISODE" EntitySet="EPISODEs" />
+      <End Role="DOCTOR" EntitySet="DOCTORs" />
+    </AssociationSet>
+    <AssociationSet Name="FK__COMPANION__STORY__286302EC" Association="Self.FK__COMPANION__STORY__286302EC">
+      <End Role="EPISODE" EntitySet="EPISODEs" />
+      <End Role="COMPANION" EntitySet="COMPANIONs" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

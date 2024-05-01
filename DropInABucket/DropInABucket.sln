@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropInABucket", "DropInABucket\DropInABucket.csproj", "{AB934ECF-2D96-4D1B-B111-3B85C3617271}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB934ECF-2D96-4D1B-B111-3B85C3617271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB934ECF-2D96-4D1B-B111-3B85C3617271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB934ECF-2D96-4D1B-B111-3B85C3617271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB934ECF-2D96-4D1B-B111-3B85C3617271}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C32D782-19CA-42BD-8C68-D62F0E2D73A6}
+	EndGlobalSection
+EndGlobal

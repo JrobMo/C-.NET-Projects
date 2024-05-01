@@ -1,0 +1,44 @@
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 3\repo\Lab3B2\Lab3B2\bin\Debug\Lab3B2.exe.config
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 3\repo\Lab3B2\Lab3B2\bin\Debug\Lab3B2.exe
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 3\repo\Lab3B2\Lab3B2\bin\Debug\Lab3B2.pdb
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 3\repo\Lab3B2\Lab3B2\obj\Debug\Lab3B.csproj.AssemblyReference.cache
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 3\repo\Lab3B2\Lab3B2\obj\Debug\Lab3B.csproj.SuggestedBindingRedirects.cache
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 3\repo\Lab3B2\Lab3B2\obj\Debug\Lab3B2.Lab3B.resources
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 3\repo\Lab3B2\Lab3B2\obj\Debug\Lab3B2.Properties.Resources.resources
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 3\repo\Lab3B2\Lab3B2\obj\Debug\Lab3B.csproj.GenerateResource.cache
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 3\repo\Lab3B2\Lab3B2\obj\Debug\Lab3B.csproj.CoreCompileInputs.cache
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 3\repo\Lab3B2\Lab3B2\obj\Debug\Lab3B2.exe
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 3\repo\Lab3B2\Lab3B2\obj\Debug\Lab3B2.pdb
+C:\Users\MrRogers\Desktop\C# Assignments\Assignment 3\repo\Lab3B2\Lab3B2\bin\Debug\Lab3B2.exe.config
+C:\Users\MrRogers\Desktop\C# Assignments\Assignment 3\repo\Lab3B2\Lab3B2\bin\Debug\Lab3B2.exe
+C:\Users\MrRogers\Desktop\C# Assignments\Assignment 3\repo\Lab3B2\Lab3B2\bin\Debug\Lab3B2.pdb
+C:\Users\MrRogers\Desktop\C# Assignments\Assignment 3\repo\Lab3B2\Lab3B2\obj\Debug\Lab3B.csproj.AssemblyReference.cache
+C:\Users\MrRogers\Desktop\C# Assignments\Assignment 3\repo\Lab3B2\Lab3B2\obj\Debug\Lab3B.csproj.SuggestedBindingRedirects.cache
+C:\Users\MrRogers\Desktop\C# Assignments\Assignment 3\repo\Lab3B2\Lab3B2\obj\Debug\Lab3B2.Lab3B.resources
+C:\Users\MrRogers\Desktop\C# Assignments\Assignment 3\repo\Lab3B2\Lab3B2\obj\Debug\Lab3B2.Properties.Resources.resources
+C:\Users\MrRogers\Desktop\C# Assignments\Assignment 3\repo\Lab3B2\Lab3B2\obj\Debug\Lab3B.csproj.GenerateResource.cache
+C:\Users\MrRogers\Desktop\C# Assignments\Assignment 3\repo\Lab3B2\Lab3B2\obj\Debug\Lab3B.csproj.CoreCompileInputs.cache
+C:\Users\MrRogers\Desktop\C# Assignments\Assignment 3\repo\Lab3B2\Lab3B2\obj\Debug\Lab3B2.exe
+C:\Users\MrRogers\Desktop\C# Assignments\Assignment 3\repo\Lab3B2\Lab3B2\obj\Debug\Lab3B2.pdb
+C:\Users\MrRogers\Desktop\C#inClass\Assignments\A3.2022\Lab3B2\Lab3B2\bin\Debug\Lab3B2.exe.config
+C:\Users\MrRogers\Desktop\C#inClass\Assignments\A3.2022\Lab3B2\Lab3B2\bin\Debug\Lab3B2.exe
+C:\Users\MrRogers\Desktop\C#inClass\Assignments\A3.2022\Lab3B2\Lab3B2\bin\Debug\Lab3B2.pdb
+C:\Users\MrRogers\Desktop\C#inClass\Assignments\A3.2022\Lab3B2\Lab3B2\obj\Debug\Lab3B.csproj.AssemblyReference.cache
+C:\Users\MrRogers\Desktop\C#inClass\Assignments\A3.2022\Lab3B2\Lab3B2\obj\Debug\Lab3B.csproj.SuggestedBindingRedirects.cache
+C:\Users\MrRogers\Desktop\C#inClass\Assignments\A3.2022\Lab3B2\Lab3B2\obj\Debug\Lab3B2.Lab3B.resources
+C:\Users\MrRogers\Desktop\C#inClass\Assignments\A3.2022\Lab3B2\Lab3B2\obj\Debug\Lab3B2.Properties.Resources.resources
+C:\Users\MrRogers\Desktop\C#inClass\Assignments\A3.2022\Lab3B2\Lab3B2\obj\Debug\Lab3B.csproj.GenerateResource.cache
+C:\Users\MrRogers\Desktop\C#inClass\Assignments\A3.2022\Lab3B2\Lab3B2\obj\Debug\Lab3B.csproj.CoreCompileInputs.cache
+C:\Users\MrRogers\Desktop\C#inClass\Assignments\A3.2022\Lab3B2\Lab3B2\obj\Debug\Lab3B2.exe
+C:\Users\MrRogers\Desktop\C#inClass\Assignments\A3.2022\Lab3B2\Lab3B2\obj\Debug\Lab3B2.pdb
+C:\Users\MrRogers\Desktop\Lab3B2\Lab3B2\bin\Debug\Lab3B2.exe.config
+C:\Users\MrRogers\Desktop\Lab3B2\Lab3B2\bin\Debug\Lab3B2.exe
+C:\Users\MrRogers\Desktop\Lab3B2\Lab3B2\bin\Debug\Lab3B2.pdb
+C:\Users\MrRogers\Desktop\Lab3B2\Lab3B2\obj\Debug\Lab3B.csproj.AssemblyReference.cache
+C:\Users\MrRogers\Desktop\Lab3B2\Lab3B2\obj\Debug\Lab3B.csproj.SuggestedBindingRedirects.cache
+C:\Users\MrRogers\Desktop\Lab3B2\Lab3B2\obj\Debug\Lab3B2.Lab3B.resources
+C:\Users\MrRogers\Desktop\Lab3B2\Lab3B2\obj\Debug\Lab3B2.Properties.Resources.resources
+C:\Users\MrRogers\Desktop\Lab3B2\Lab3B2\obj\Debug\Lab3B.csproj.GenerateResource.cache
+C:\Users\MrRogers\Desktop\Lab3B2\Lab3B2\obj\Debug\Lab3B.csproj.CoreCompileInputs.cache
+C:\Users\MrRogers\Desktop\Lab3B2\Lab3B2\obj\Debug\Lab3B2.exe
+C:\Users\MrRogers\Desktop\Lab3B2\Lab3B2\obj\Debug\Lab3B2.pdb

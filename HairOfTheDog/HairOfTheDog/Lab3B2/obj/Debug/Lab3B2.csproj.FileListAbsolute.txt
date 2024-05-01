@@ -1,0 +1,11 @@
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 3\repo\Lab3B2\Lab3B2\bin\Debug\Lab3B2.exe.config
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 3\repo\Lab3B2\Lab3B2\bin\Debug\Lab3B2.exe
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 3\repo\Lab3B2\Lab3B2\bin\Debug\Lab3B2.pdb
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 3\repo\Lab3B2\Lab3B2\obj\Debug\Lab3B2.csproj.AssemblyReference.cache
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 3\repo\Lab3B2\Lab3B2\obj\Debug\Lab3B2.csproj.SuggestedBindingRedirects.cache
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 3\repo\Lab3B2\Lab3B2\obj\Debug\Lab3B2.Properties.Resources.resources
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 3\repo\Lab3B2\Lab3B2\obj\Debug\Lab3B2.csproj.GenerateResource.cache
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 3\repo\Lab3B2\Lab3B2\obj\Debug\Lab3B2.csproj.CoreCompileInputs.cache
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 3\repo\Lab3B2\Lab3B2\obj\Debug\Lab3B2.exe
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 3\repo\Lab3B2\Lab3B2\obj\Debug\Lab3B2.pdb
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 3\repo\Lab3B2\Lab3B2\obj\Debug\Lab3B2.Lab3B.resources

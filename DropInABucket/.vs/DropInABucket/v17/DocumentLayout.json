@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\DropInABucket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB934ECF-2D96-4D1B-B111-3B85C3617271}|DropInABucket\\DropInABucket.csproj|c:\\users\\psvmain\\desktop\\c#.net-projects\\dropinabucket\\dropinabucket\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB934ECF-2D96-4D1B-B111-3B85C3617271}|DropInABucket\\DropInABucket.csproj|solutionrelative:dropinabucket\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB934ECF-2D96-4D1B-B111-3B85C3617271}|DropInABucket\\DropInABucket.csproj|C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\DropInABucket\\dropinabucket\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB934ECF-2D96-4D1B-B111-3B85C3617271}|DropInABucket\\DropInABucket.csproj|solutionrelative:dropinabucket\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB934ECF-2D96-4D1B-B111-3B85C3617271}|DropInABucket\\DropInABucket.csproj|C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\DropInABucket\\dropinabucket\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB934ECF-2D96-4D1B-B111-3B85C3617271}|DropInABucket\\DropInABucket.csproj|solutionrelative:dropinabucket\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB934ECF-2D96-4D1B-B111-3B85C3617271}|DropInABucket\\DropInABucket.csproj|C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\DropInABucket\\dropinabucket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB934ECF-2D96-4D1B-B111-3B85C3617271}|DropInABucket\\DropInABucket.csproj|solutionrelative:dropinabucket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 165,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\DropInABucket\\DropInABucket\\Form1.cs",
+              "RelativeDocumentMoniker": "DropInABucket\\Form1.cs",
+              "ToolTip": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\DropInABucket\\DropInABucket\\Form1.cs [Design]",
+              "RelativeToolTip": "DropInABucket\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:01:07.86Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\DropInABucket\\DropInABucket\\Program.cs",
+              "RelativeDocumentMoniker": "DropInABucket\\Program.cs",
+              "ToolTip": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\DropInABucket\\DropInABucket\\Program.cs",
+              "RelativeToolTip": "DropInABucket\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:01:07.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\DropInABucket\\DropInABucket\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DropInABucket\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\DropInABucket\\DropInABucket\\Form1.Designer.cs",
+              "RelativeToolTip": "DropInABucket\\Form1.Designer.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:01:07.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\DropInABucket\\DropInABucket\\Form1.cs",
+              "RelativeDocumentMoniker": "DropInABucket\\Form1.cs",
+              "ToolTip": "C:\\Users\\PSVMain\\Desktop\\C#.NET-Projects\\DropInABucket\\DropInABucket\\Form1.cs",
+              "RelativeToolTip": "DropInABucket\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:01:08.072Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

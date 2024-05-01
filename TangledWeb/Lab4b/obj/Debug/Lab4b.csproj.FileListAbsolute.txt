@@ -1,0 +1,15 @@
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 4\Lab4b\Lab4b\bin\Debug\Lab4b.exe.config
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 4\Lab4b\Lab4b\bin\Debug\Lab4b.exe
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 4\Lab4b\Lab4b\bin\Debug\Lab4b.pdb
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 4\Lab4b\Lab4b\obj\Debug\Lab4b.csproj.AssemblyReference.cache
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 4\Lab4b\Lab4b\obj\Debug\Lab4b.csproj.SuggestedBindingRedirects.cache
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 4\Lab4b\Lab4b\obj\Debug\Lab4b.Form1.resources
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 4\Lab4b\Lab4b\obj\Debug\Lab4b.Properties.Resources.resources
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 4\Lab4b\Lab4b\obj\Debug\Lab4b.csproj.GenerateResource.cache
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 4\Lab4b\Lab4b\obj\Debug\Lab4b.csproj.CoreCompileInputs.cache
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 4\Lab4b\Lab4b\obj\Debug\Lab4b.exe
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 4\Lab4b\Lab4b\obj\Debug\Lab4b.pdb
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 4\Lab4b\Lab4b\bin\Debug\HtmlAgilityPack.dll
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 4\Lab4b\Lab4b\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 4\Lab4b\Lab4b\bin\Debug\HtmlAgilityPack.xml
+C:\Users\BalogneFace\Documents\Term3\.NET\Assignment 4\Lab4b\Lab4b\obj\Debug\Lab4b.csproj.CopyComplete

@@ -1,0 +1,7 @@
+C:\Users\PSVMain\Desktop\C#.NET-Projects\Lab3A\Lab3A\Lab3A\bin\Debug\Lab3A.exe.config
+C:\Users\PSVMain\Desktop\C#.NET-Projects\Lab3A\Lab3A\Lab3A\bin\Debug\Lab3A.exe
+C:\Users\PSVMain\Desktop\C#.NET-Projects\Lab3A\Lab3A\Lab3A\bin\Debug\Lab3A.pdb
+C:\Users\PSVMain\Desktop\C#.NET-Projects\Lab3A\Lab3A\Lab3A\obj\Debug\MediaIsTheMessage.csproj.AssemblyReference.cache
+C:\Users\PSVMain\Desktop\C#.NET-Projects\Lab3A\Lab3A\Lab3A\obj\Debug\MediaIsTheMessage.csproj.CoreCompileInputs.cache
+C:\Users\PSVMain\Desktop\C#.NET-Projects\Lab3A\Lab3A\Lab3A\obj\Debug\Lab3A.exe
+C:\Users\PSVMain\Desktop\C#.NET-Projects\Lab3A\Lab3A\Lab3A\obj\Debug\Lab3A.pdb

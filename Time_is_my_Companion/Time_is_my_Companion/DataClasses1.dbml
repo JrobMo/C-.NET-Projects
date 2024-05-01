@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="COMP10204_LAB5" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=BALOGNEFACE\SQLEXPRESS;Initial Catalog=COMP10204_LAB5;Integrated Security=True" SettingsObjectName="Time_is_my_Companion.Properties.Settings" SettingsPropertyName="COMP10204_LAB5ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.COMPANION" Member="COMPANIONs">
+    <Type Name="COMPANION">
+      <Column Name="NAME" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="ACTOR" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="DOCTORID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="STORYID" Type="System.String" DbType="VarChar(6) NOT NULL" CanBeNull="false" />
+      <Association Name="DOCTOR_COMPANION" Member="DOCTOR" ThisKey="DOCTORID" OtherKey="DOCTORID" Type="DOCTOR" IsForeignKey="true" />
+      <Association Name="EPISODE_COMPANION" Member="EPISODE" ThisKey="STORYID" OtherKey="STORYID" Type="EPISODE" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DOCTOR" Member="DOCTORs">
+    <Type Name="DOCTOR">
+      <Column Name="DOCTORID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ACTOR" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="SERIES" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="AGE" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="DEBUT" Type="System.String" DbType="VarChar(6) NOT NULL" CanBeNull="false" />
+      <Column Name="PICTURE" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX) NOT NULL" CanBeNull="false" UpdateCheck="Never" />
+      <Association Name="DOCTOR_COMPANION" Member="COMPANIONs" ThisKey="DOCTORID" OtherKey="DOCTORID" Type="COMPANION" />
+      <Association Name="EPISODE_DOCTOR" Member="EPISODE" ThisKey="DEBUT" OtherKey="STORYID" Type="EPISODE" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.EPISODE" Member="EPISODEs">
+    <Type Name="EPISODE">
+      <Column Name="STORYID" Type="System.String" DbType="VarChar(6) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="SEASON" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="SEASONYEAR" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="TITLE" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="EPISODE_COMPANION" Member="COMPANIONs" ThisKey="STORYID" OtherKey="STORYID" Type="COMPANION" />
+      <Association Name="EPISODE_DOCTOR" Member="DOCTORs" ThisKey="STORYID" OtherKey="DEBUT" Type="DOCTOR" />
+    </Type>
+  </Table>
+</Database>

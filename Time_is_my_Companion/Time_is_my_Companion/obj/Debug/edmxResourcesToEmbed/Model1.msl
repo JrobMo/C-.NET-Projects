@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="COMP10204_LAB5ModelStoreContainer" CdmEntityContainer="COMP10204_LAB5Entities">
+    <EntitySetMapping Name="DOCTORs">
+      <EntityTypeMapping TypeName="COMP10204_LAB5Model.DOCTOR">
+        <MappingFragment StoreEntitySet="DOCTOR">
+          <ScalarProperty Name="DOCTORID" ColumnName="DOCTORID" />
+          <ScalarProperty Name="ACTOR" ColumnName="ACTOR" />
+          <ScalarProperty Name="SERIES" ColumnName="SERIES" />
+          <ScalarProperty Name="AGE" ColumnName="AGE" />
+          <ScalarProperty Name="DEBUT" ColumnName="DEBUT" />
+          <ScalarProperty Name="PICTURE" ColumnName="PICTURE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EPISODEs">
+      <EntityTypeMapping TypeName="COMP10204_LAB5Model.EPISODE">
+        <MappingFragment StoreEntitySet="EPISODE">
+          <ScalarProperty Name="STORYID" ColumnName="STORYID" />
+          <ScalarProperty Name="SEASON" ColumnName="SEASON" />
+          <ScalarProperty Name="SEASONYEAR" ColumnName="SEASONYEAR" />
+          <ScalarProperty Name="TITLE" ColumnName="TITLE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="COMPANIONs">
+      <EntityTypeMapping TypeName="COMP10204_LAB5Model.COMPANION">
+        <MappingFragment StoreEntitySet="COMPANION">
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="ACTOR" ColumnName="ACTOR" />
+          <ScalarProperty Name="DOCTORID" ColumnName="DOCTORID" />
+          <ScalarProperty Name="STORYID" ColumnName="STORYID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
